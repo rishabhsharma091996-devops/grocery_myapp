@@ -42,4 +42,4 @@ jobs:
           app_location: "frontend"
           output_location: "build"
         env:
-          REACT_APP_API_URL: https://backend-groceryappp.azurewebsites.net
+          REACT_APP_API_URL: https://backend-groceryappp-hggfggb2f9djcscw.westcentralus-01.azurewebsites.net
